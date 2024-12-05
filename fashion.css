@@ -1,0 +1,32 @@
+*{
+ padding: 0;  
+ margin: 0;
+
+}
+.fas{
+    width: 100%;
+    height: 50px;
+    border: red solid;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    
+}
+.yy{
+    color: black;
+}
+:hover{
+color: blue;
+padding: 10px;
+}
+.img{
+    width: 20px;
+    height: 20px;
+    margin-right: 60px;
+}
+.nn{
+    margin-top: 100px;
+    margin-left: 60px;
+}
+
+
